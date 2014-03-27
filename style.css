@@ -268,7 +268,8 @@ padding:1px 0 0;
   font-size: 24px;
   line-height: initial;
   margin-top: 20px;
-  overflow-x: auto;
+  max-height: 350px;
+  overflow: auto;
   padding: 30px;
   white-space: pre;
 }
