@@ -226,7 +226,8 @@ margin:0 0 50px;
 }
 
 .slide ol li,.slide ul li {
-text-indent:-2em;
+  line-height: 43px;
+  text-indent: -2em;
 }
 
 .slide ol li:before,.slide ul li:before {
