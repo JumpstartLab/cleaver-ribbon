@@ -694,4 +694,11 @@ font-style:italic;
     .list .slide:target:before {
     box-shadow:0 0 0 1px #376da3,0 0 0 10px #4b86c2,0 20px 50px rgba(42,43,45,0.6);
     }
+
+    .slide pre code.lang-bash{
+      background: #333;
+      color: white;
+      border-top: 30px solid #AAA;
+      padding: 10px;
+    }    
 }
