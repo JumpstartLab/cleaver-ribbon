@@ -266,8 +266,11 @@ content:counter(list) ".\00A0";
 .slide pre {
 counter-reset:code;
 white-space:normal;
-margin:0 0 49px;
+margin:0 0 0px;
 padding:1px 0 0;
+position: absolute;
+left: 20px;
+right: 20px;
 }
 
 .slide pre code {
