@@ -62,6 +62,10 @@ h5 {
   font-style: italic;
 }
 
+p {
+  margin-bottom: .5em;
+}
+
 ol,ul {
   list-style:none;
   position: relative;
