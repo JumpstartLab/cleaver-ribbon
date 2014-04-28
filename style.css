@@ -194,7 +194,7 @@ a {
 }
 
 .slide p {
-  margin:0 0 50px;
+  margin:0 0 0px;
 }
 
 .slide p.note {
@@ -273,7 +273,7 @@ a {
 .slide pre {
   counter-reset:code;
   white-space:normal;
-  margin:0 0 0px;
+  margin:0 0 10px;
   padding:1px 0 0;
   left: 20px;
   right: 20px;
